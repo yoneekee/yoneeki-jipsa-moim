@@ -1,4 +1,6 @@
 /********************************* */
+
+const lastLeft = " ";
 const typing_normal = function (textArray, className) {
   const $text = document.querySelector(className);
   const letters = textArray;
